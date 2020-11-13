@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Seahawks Offensive Starting Lineup</string>
+    <string name="player_name">Nama Pemain</string>
+    <string name="detail">Detail</string>
+    <string name="halaman_utama">Halaman Utama</string>
+    <string name="halaman_detail">Halaman Detail</string>
+    <string name="about">About</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="yuandika_alfahreiza">Yuandika Alfahreiza</string>
+</resources>
